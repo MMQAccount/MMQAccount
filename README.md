@@ -1,41 +1,53 @@
-<h1 align="center">Hi 👋, I'm Maram Al-Qadi</h1>
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="display:inline-block; vertical-align:middle; margin-left:10px;" />, I'm Maram Al-Qadi</h1>
 <h3 align="center">aka <b>M.M.Q</b> • Full-Stack Developer • Computer Science Student @ PPU • Intern @ Trusted Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;React%20%7C%20Node%20%7C%20C%2B%2B%20%7C%20PHP%20%7C%20TypeScript;Code%20is%20my%20language%20of%20expression;&center=true&width=600&height=45&font=Fira%20Code&pause=1000" />
 </p>
 
-
 ---
 
 ### 🚀 About Me
-- 💻 Passionate **Full-Stack Developer** with love for both frontend and backend.
-- 👩‍🎓 CS Student at **Palestine Polytechnic University**.
-- 🔭 Currently interning at **Trusted Systems for Computer & IT** and previously trained at **PSEU**.
-- 💡 Strong in: `React`, `Node.js`, `C++`, `PHP`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `Java`.
-- 🧠 Constantly learning and experimenting with new tech.
-- 💤 404: Sleep not found – debugging life one commit at a time.
-- ✨ _"A person who never made a mistake never tried anything new."_
+
+* 💻 Passionate **Full-Stack Developer** with love for both frontend and backend.
+* 👩‍🎓 CS Student at **Palestine Polytechnic University**.
+* 🔭 Currently interning at **Trusted Systems for Computer & IT** and previously trained at **PSEU**.
+* 💡 Strong in: `React`, `Node.js`, `Express.js`, `C++`, `PHP`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `Java`, `Python`, `MongoDB`, `MySQL`.
+* 🧠 Constantly learning and experimenting with new tech.
+* 💤 404: Sleep not found – debugging life one commit at a time.
+* ✨ *"A person who never made a mistake never tried anything new."*
 
 ---
 
 ### 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,php,html,css,cpp,java,python,firebase,mysql,git,vscode,linux,mongodb,python,express" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,ts,js,php,html,css,cpp,java,python,firebase,mysql,git,vscode,linux,mongodb" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MMQAccount&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MMQAccount&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MMQAccount&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MMQAccount&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=MMQAccount&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=559ff4&text_color=fcfcfc&icon_color=559ff4" width = 350 />
 </p>
 
 ---
 
 ### 💬 Let's Connect!
+
 <p align="center">
   <a href="mailto:alqadimaram40@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/maram-al-qadi-a9b1482b5/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -45,13 +57,21 @@
 ---
 
 ### ✨ Fun Bits
-> 💬 Writing code that speaks louder than words  
-> 🧠 Coding: where logic meets magic  
+
+> 💬 Writing code that speaks louder than words
+> 🧠 Coding: where logic meets magic
 > ❤️ I believe in building experiences, not just applications.
 
 ---
 
-### 🌟 Thanks for visiting!
+<h2 align="center">👀 Visitors</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MMQAccount&style=flat-square&color=blue" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=MMQAccount&style=flat-square&color=blue" alt="Visitor Count"/>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake gif" width="100%" />
+</p>
+

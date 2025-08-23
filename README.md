@@ -1,9 +1,8 @@
-
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="display:inline-block; vertical-align:middle; margin-left:10px;" />, I'm Maram Al-Qadi</h1>
 <h3 align="center">aka <b>M.M.Q</b> • Full-Stack Developer • Computer Science Student @ PPU • Intern @ Trusted Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;React%20%7C%20Node%20%7C%20C%2B%2B%20%7C%20PHP%20%7C%20TypeScript;Code%20is%20my%20language%20of%20expression;&center=true&width=600&height=45&font=Fira%20Code&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Next.js%20%7C%20React%20%7C%20Node%20%7C%20C%2B%2B%20%7C%20PHP%20%7C%20TypeScript;Code%20is%20my%20language%20of%20expression;&center=true&width=650&height=45&font=Fira%20Code&pause=1000" />
 </p>
 
 ---
@@ -13,7 +12,7 @@
 * 💻 Passionate **Full-Stack Developer** with love for both frontend and backend.
 * 👩‍🎓 CS Student at **Palestine Polytechnic University**.
 * 🔭 Currently interning at **Trusted Systems for Computer & IT** and previously trained at **PSEU**.
-* 💡 Strong in: `React`, `Node.js`, `Express.js`, `C++`, `PHP`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `Java`, `Python`, `MongoDB`, `MySQL`.
+* 💡 Strong in: `Next.js`, `React`, `Node.js`, `Express.js`, `C++`, `PHP`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `Java`, `Python`, `MongoDB`, `MySQL`.
 * 🧠 Constantly learning and experimenting with new tech.
 * 💤 404: Sleep not found – debugging life one commit at a time.
 * ✨ *"A person who never made a mistake never tried anything new."*
@@ -23,7 +22,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,ts,js,php,html,css,cpp,java,python,firebase,mysql,git,vscode,linux,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,ts,js,php,html,css,cpp,java,python,firebase,mysql,git,vscode,linux,mongodb" />
 </p>
 
 ---
@@ -37,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MMQAccount&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MMQAccount&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 <p align="center">
@@ -58,9 +57,10 @@
 
 ### ✨ Fun Bits
 
-> 💬 Writing code that speaks louder than words
-> 🧠 Coding: where logic meets magic
-> ❤️ I believe in building experiences, not just applications.
+> 💬 Writing code that speaks louder than words  
+> ⚡ Favorite Stack: **Next.js + React + Node.js**  
+> 🧠 Coding: where logic meets magic  
+> ❤️ I believe in building experiences, not just applications.  
 
 ---
 
@@ -74,4 +74,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake gif" width="100%" />
 </p>
-

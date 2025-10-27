@@ -12,7 +12,7 @@
 * 💻 Passionate **Full-Stack Developer** with love for both frontend and backend.
 * 👩‍🎓 CS Student at **Palestine Polytechnic University**.
 * 🔭 Currently interning at **Trusted Systems for Computer & IT** and previously trained at **PSEU**.
-* 💡 Strong in: `Next.js`, `React`, `Node.js`, `Express.js`, `C++`, `PHP`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `Java`, `Python`, `MongoDB`, `MySQL`.
+* 💡 Strong in: `Next.js`, `React`, `Node.js`, `Express.js`, `C++`, `PHP`, `JavaScript`, `TypeScript`, `HTML`, `CSS`, `Java`, `Python`, `MongoDB`, `MySQL`, `C#`.
 * 🧠 Constantly learning and experimenting with new tech.
 * 💤 404: Sleep not found – debugging life one commit at a time.
 * ✨ *"A person who never made a mistake never tried anything new."*
@@ -22,7 +22,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,ts,js,php,html,css,cpp,java,python,firebase,mysql,git,vscode,linux,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,ts,js,php,html,css,cpp,java,python,firebase,mysql,git,vscode,linux,mongodb,c#" />
 </p>
 
 ---
